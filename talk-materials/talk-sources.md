@@ -1,0 +1,35 @@
+# Talk sources
+Below is a list of all the sources and media I used for this talk.
+
+## Research
+* Washington Post, [The Google engineer who thinks the company’s AI has come to life](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
+* Harvard Business School, [Is AI Coming for Your Job?](https://hbswk.hbs.edu/item/is-ai-coming-for-your-job)
+* Ars Technica, [Warning of AI’s danger, pioneer Geoffrey Hinton quits Google to speak freely](https://arstechnica.com/information-technology/2023/05/warning-of-ais-danger-pioneer-geoffrey-hinton-quits-google-to-speak-freely/)
+* Stanford Computer Sciences, [History of Neural Networks](https://cs.stanford.edu/people/eroberts/courses/soco/projects/neural-networks/History/history1.html)
+* Ars Technica, [The generative AI revolution has begun—how did we get here?](https://arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/)
+* Wikipedia, [Large Language Model](https://en.wikipedia.org/wiki/Large_language_model)
+* CodeEmporium, [Transformer Neural Networks - EXPLAINED!](https://www.youtube.com/watch?v=TQQlZhbC5ps&list=PLTl9hO2Oobd_bzXUpzKMKA3liq2kj6LfE&index=9)
+* CodeEmporium, [GPT - Explained!](https://www.youtube.com/watch?v=3IweGfgytgY&list=PLTl9hO2Oobd_bzXUpzKMKA3liq2kj6LfE&index=11)
+* Yudkowsky (2022), [AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
+* MIT Technology Review (2023), [Geoffrey Hinton tells us why he’s now scared of the tech he helped build](https://www.technologyreview.com/2023/05/02/1072528/geoffrey-hinton-google-why-scared-ai/)
+* Agüera y Arcas & Norvig (2023), [Artificial General Intelligence Is Already Here](https://www.noemamag.com/artificial-general-intelligence-is-already-here/)
+* Bubeck et al. (2023), [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712)
+* Horace He's [CodeForces experiment](https://twitter.com/cHHillee/status/1635790330854526981?t=bdVc5pxCn1P_GV3ZF91X6w&s=35)
+* Sayash Kapoor's [CodeForces experiment](https://twitter.com/sayashk/status/1638159652562038787)
+* Narayanan & Kapoor (2023), [GPT-4 and professional benchmarks: the wrong answer to the wrong question](https://www.aisnakeoil.com/p/gpt-4-and-professional-benchmarks)
+* Chollet (2019), [On the measure of intelligence](https://arxiv.org/abs/1911.01547)
+* Morris et al. (2023), [Levels of AGI: Operationalizing progress on the path to AGI](https://arxiv.org/pdf/2311.02462)
+* Gao et al. (2024), [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997)
+* Hugging Face, [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
+
+## Image credits
+* [ChatGPT on mobile phone](https://www.pexels.com/photo/get-instant-answers-to-your-questions-with-chatgpt-your-pocket-ai-assistant-stay-connected-with-chatgpt-on-the-go-16689017/)
+* [Laptop in darkness](https://www.pexels.com/photo/photography-of-laptop-in-a-dark-area-986774/)
+* [Robot playing chess](https://www.pexels.com/photo/a-robot-playing-chess-8438880/)
+* [Book in black and white](https://www.pexels.com/photo/low-light-photo-of-opened-book-159872/)
+* [Person with laptop icon](https://www.flaticon.com/free-icon/computer-worker_7870360?term=laptop&page=2&position=1&origin=search&related_id=7870360)
+* [Tic tac toe icon](https://www.flaticon.com/free-icon/tic-tac-toe_9948487?term=tic+tac+toe&page=1&position=2&origin=style&related_id=9948487)
+* [Machine learning algorithm icon](https://www.flaticon.com/free-icon/classification_6045784?term=classification&page=1&position=1&origin=style&related_id=6045784)
+* [Car icon](https://www.flaticon.com/free-icon/classification_6045784?term=classification&page=1&position=1&origin=style&related_id=6045784)
+* [Person icon](https://www.flaticon.com/free-icon/user_3059518?term=person&page=1&position=1&origin=style&related_id=3059518)
+* [Planet icon](https://www.flaticon.com/free-icon/planet_763294?term=planet&page=1&position=34&origin=style&related_id=763294)
